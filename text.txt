@@ -1,6 +1,6 @@
 1. git init (menginisiasi git repo) (otomatis akan terbuat branch default: master (main))
 2. git add (diikuti nama file) (menambahkan file baru ke dalam git)
-3. git commit (menyimpan file2 yg sudah ditambahkan)
+3. git commit -m <pesan> (menyimpan file2 yg sudah ditambahkan)
 4. git remote add origin <<link github>> (remote/ file yg kt upload )
 5. git push origin master (ba kirim code ke github)
 
